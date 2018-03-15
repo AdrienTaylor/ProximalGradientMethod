@@ -10,7 +10,7 @@ To use the code, download the repository and execute the scripts on a one-by-one
 
 **Notes:** 
 - This code requires [YALMIP](https://yalmip.github.io/) along with a suitable SDP solver (e.g., Sedumi, SDPT3, Mosek).
-- The files in the PESTO_files folder requires the installation of the Performance Estimation Toolbox ([PESTO](https://github.com/AdrienTaylor/Performance-Estimation-Toolbox)).
+- The files whose name starts with PESTO_* requires the installation of the Performance Estimation Toolbox ([PESTO](https://github.com/AdrienTaylor/Performance-Estimation-Toolbox)).
 
 ## Content
 
