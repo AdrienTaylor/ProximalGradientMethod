@@ -1,8 +1,9 @@
 # ProximalGradientMethod
 
-This code can be used to reproduce the results from the work (on [arXiv](https://arxiv.org/pdf/1705.04398.pdf)):
+This code can be used to reproduce the results from the work ([arXiv](https://arxiv.org/pdf/1705.04398.pdf), [JOTA](https://link.springer.com/article/10.1007/s10957-018-1298-1)):
 
-> [1] Taylor, Adrien B., Julien M. Hendrickx, and François Glineur. "Exact worst-case convergence rates of the proximal gradient method for composite convex minimization." arXiv:1705.04398 (2017).
+> [1] Taylor, Adrien B., Julien M. Hendrickx, and François Glineur (2018). "Exact worst-case convergence rates of the proximal gradient method for composite convex minimization". Journal of Optimization Theory and Applications, 178(2), 455-476.
+
 
 ## Getting started
 
